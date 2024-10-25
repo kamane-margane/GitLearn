@@ -1,2 +1,2 @@
 def printer():
-	pass
+	print("foobar")
